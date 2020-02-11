@@ -1,5 +1,7 @@
 ## Description
-Code for "On Contrastive Learning for Likelihood-free Inference".
+Code for 
+
+> Durkan et al., _On Contrastive Learning for Likelihood-free Inference_, 2020. [[arXiv]](https://arxiv.org/abs/2002.03712)
 
 Features neural likelihood-free methods from
 
